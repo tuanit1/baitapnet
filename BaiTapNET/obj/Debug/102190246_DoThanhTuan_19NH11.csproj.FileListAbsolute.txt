@@ -1,0 +1,11 @@
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\bin\Debug\BaiTapNET.exe.config
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\bin\Debug\BaiTapNET.exe
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\bin\Debug\BaiTapNET.pdb
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\obj\Debug\102190246_DoThanhTuan_19NH11.csprojAssemblyReference.cache
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\obj\Debug\BaiTapNET.Form1.resources
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\obj\Debug\BaiTapNET.Form2.resources
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\obj\Debug\BaiTapNET.Properties.Resources.resources
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\obj\Debug\102190246_DoThanhTuan_19NH11.csproj.GenerateResource.cache
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\obj\Debug\102190246_DoThanhTuan_19NH11.csproj.CoreCompileInputs.cache
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\obj\Debug\BaiTapNET.exe
+C:\Users\NAME\OneDrive - The University of Technology\Documents\BaiTapNET\BaiTapNET\BaiTapNET\obj\Debug\BaiTapNET.pdb
