@@ -166,5 +166,10 @@ namespace BaiTapNET
             cbb_Sort.DataSource = cbbSortList;
             cbb_Sort.DisplayMember = "TenHopDong";
         }
+
+        private void btnnew_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("newFunction");
+        }
     }
 }
