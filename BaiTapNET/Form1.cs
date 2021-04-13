@@ -176,5 +176,10 @@ namespace BaiTapNET
         {
             MessageBox.Show("again");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Tuan dep trai");
+        }
     }
 }
