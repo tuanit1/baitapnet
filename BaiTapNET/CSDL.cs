@@ -46,7 +46,7 @@ namespace BaiTapNET
                 new HoaDon("MaHoaDon4", Convert.ToDateTime("4/6/2004"), 550000, "HD2"),
                 new HoaDon("MaHoaDon6", Convert.ToDateTime("4/6/2003"), 650000, "HD2"),
                 new HoaDon("MaHoaDon4", Convert.ToDateTime("4/6/2002"), 750000, "HD2"),
-                new HoaDon("MaHoaDon2", Convert.ToDateTime("4/6/2001"), 850000, "HD2"),
+                new HoaDon("MaHoaDon2", Convert.ToDateTime("4/6/2001"), 965353989, "HD2"),
 
             };
             foreach (HoaDon item in listHoaDon)
